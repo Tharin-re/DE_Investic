@@ -1,0 +1,21 @@
+[2025-04-05T05:16:00.489+0000] {processor.py:186} INFO - Started process (PID=59) to work on /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:16:00.491+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/investic_stock_DE_DAG.py for tasks to queue
+[2025-04-05T05:16:00.496+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:16:00.496+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:16:00.551+0000] {processor.py:925} INFO - DAG(s) 'investic_stock_DE' retrieved from /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:16:00.706+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:16:00.705+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-05T05:16:00.732+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:16:00.732+0000] {dag.py:4180} INFO - Setting next_dagrun for investic_stock_DE to 2025-04-05 04:00:00+00:00, run_after=2025-04-05 05:00:00+00:00
+[2025-04-05T05:16:00.761+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/investic_stock_DE_DAG.py took 0.279 seconds
+[2025-04-05T05:16:31.073+0000] {processor.py:186} INFO - Started process (PID=123) to work on /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:16:31.074+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/investic_stock_DE_DAG.py for tasks to queue
+[2025-04-05T05:16:31.076+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:16:31.076+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:16:31.104+0000] {processor.py:925} INFO - DAG(s) 'investic_stock_DE' retrieved from /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:16:31.122+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:16:31.122+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-05T05:16:31.146+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:16:31.146+0000] {dag.py:4180} INFO - Setting next_dagrun for investic_stock_DE to 2025-04-05 04:00:00+00:00, run_after=2025-04-05 05:00:00+00:00
+[2025-04-05T05:16:31.166+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/investic_stock_DE_DAG.py took 0.099 seconds
+[2025-04-05T05:17:01.671+0000] {processor.py:186} INFO - Started process (PID=187) to work on /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:17:01.672+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/investic_stock_DE_DAG.py for tasks to queue
+[2025-04-05T05:17:01.674+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:17:01.674+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:17:01.688+0000] {processor.py:925} INFO - DAG(s) 'investic_stock_DE' retrieved from /opt/airflow/dags/investic_stock_DE_DAG.py
+[2025-04-05T05:17:01.702+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:17:01.702+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-05T05:17:01.720+0000] {logging_mixin.py:190} INFO - [2025-04-05T05:17:01.720+0000] {dag.py:4180} INFO - Setting next_dagrun for investic_stock_DE to 2025-04-05 04:00:00+00:00, run_after=2025-04-05 05:00:00+00:00
+[2025-04-05T05:17:01.738+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/investic_stock_DE_DAG.py took 0.071 seconds

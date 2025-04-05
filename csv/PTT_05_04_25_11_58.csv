@@ -1,0 +1,8 @@
+,stock,sentiment,topic,date
+0,PTT,negative,"['US tariffs', 'trade imbalance', 'automotive industry', 'export decline', 'household debt']",2025-04-04
+1,PTT,positive,"['Annual General Meeting', 'dividend payment', 'sustainability', 'digital initiatives', 'investment plans']",2025-04-02
+2,PTT,neutral,"['electricity price reduction', 'financial burden on households', 'energy regulatory decisions', 'renewable energy programs', 'power-purchase agreements']",2025-04-01
+3,PTT,negative,"['trade tariffs', 'economic growth', 'GDP impact', 'stock market performance', 'monetary policy']",2025-04-01
+4,PTT,positive,"['earthquake impact', 'financial stability', 'construction safety', 'infrastructure resilience', 'business continuity']",2025-04-01
+5,PTT,neutral,"['trade war', 'tariffs', 'economic outlook', 'inflation', 'market performance']",2025-03-29
+6,PTT,positive,"['expansion in Cambodia', 'Cafe Amazon', 'sustainable business growth', 'local culture and cuisine', 'economic growth opportunities']",2025-03-28
